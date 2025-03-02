@@ -1,8 +1,5 @@
 package br.com.apiproduto.entity;
 
-import io.swagger.v3.oas.annotations.media.Schema; // Importação das anotações Swagger
-import lombok.Data;
-
 import javax.persistence.*;
 import java.math.BigDecimal;
 
